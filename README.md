@@ -11,10 +11,10 @@ Analizar y procesar información ambiental mediante la biblioteca `pandas`, apli
 | Notebook | Descripción | Responsable |
 |-----------|--------------|--------------|
 | `0_ejemplo_clase_pandas.ipynb` | Ejemplo general de lectura y manipulación de datos. | Todos |
-| `reto1_lectura_datos.ipynb` | Cargar, explorar y describir los datos. | Estudiante 1 |
-| `reto2_filtros_pandas.ipynb` | Aplicar filtros y condiciones lógicas (pH, temperatura, oxígeno). | Estudiante 2 |
-| `reto3_funciones_estadisticas.ipynb` | Calcular estadísticas y generar nuevas columnas con operaciones. | Estudiante 3 |
-| `reto4_integracion_final.ipynb` | Unir los resultados previos y realizar un diagnóstico integral. | Estudiante 4 |
+| `reto1_lectura_datos.ipynb` | Cargar, explorar y describir los datos. | Ariana Gaitan |
+| `reto2_filtros_pandas.ipynb` | Aplicar filtros y condiciones lógicas (pH, temperatura, oxígeno). | Mariana Villada |
+| `reto3_funciones_estadisticas.ipynb` | Calcular estadísticas y generar nuevas columnas con operaciones. | Felipe Morera |
+| `reto4_integracion_final.ipynb` | Unir los resultados previos y realizar un diagnóstico integral. | Juan Zamudio - Camilo Pachon |
 
 ### ⚙️ Pasos para completar la tarea
 1️⃣ Cada integrante debe desarrollar el notebook que le corresponde.  
